@@ -26,3 +26,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadmehrozekhan&show_icons=true&locale=en" alt="muhammadmehrozekhan" /></p>
  
+
+📫 Get in Touch
+LinkedIn: Your LinkedIn Profile
+Twitter: Your Twitter Handle
+Email: Your Email
