@@ -25,9 +25,19 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadmehrozekhan&show_icons=true&locale=en&layout=compact" alt="muhammadmehrozekhan" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadmehrozekhan&show_icons=true&locale=en" alt="muhammadmehrozekhan" /></p>
- 
 
-📫 Get in Touch
-LinkedIn: Your LinkedIn Profile
-Twitter: Your Twitter Handle
-Email: Your Email
+
+
+<h3 align="left">📫 Get in Touch</h3>
+<p align="left">Linkedin:
+<a href="https://www.linkedin.com/in/mehroze-younus-93286b258?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehroze younus" height="30" width="40" /></a>
+</p>
+<p align="left">Twitter:
+<a href="https://twitter/in/mehroze-younus-93286b258?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehroze younus" height="30" width="40" /></a>
+</p>
+<p align="left">Email:
+<a href="https://twitter/in/mehroze-younus-93286b258?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehroze younus" height="30" width="40" /></a>
+</p>
+
+
+
