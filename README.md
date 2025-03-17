@@ -27,13 +27,15 @@
 
 <h3 align="left">📫 Get in Touch</h3>
 <p align="left"> 
-<a href="https://www.linkedin.com/in/mehroze-younus-93286b258?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehroze younus" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/muhammadmehrozekhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehroze younus" height="30" width="40" /></a>
 </p>
 <p align="left"> 
 <a href="https://x/in/mehroze-younus-93286b258?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/X_logo.jpg/480px-X_logo.jpg" alt="mehroze younus" height="30" width="40" /></a>
 </p>
 <p align="left">
-<a href="https://mail/in/mehroze-younus-93286b258?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://akcdn.detik.net.id/visual/2015/07/10/0cc5f8f7-5740-43ca-bdda-33010cac28cd_169.jpg?w=400&q=90" alt="mehroze younus" height="30" width="40" /></a>
+<a href="mailto:mehrozeyounus@gmail.com" target="_blank">
+    <img align="center" src="https://akcdn.detik.net.id/visual/2015/07/10/0cc5f8f7-5740-43ca-bdda-33010cac28cd_169.jpg?w=400&q=90" alt="mehroze younus" height="30" width="40" />
+</a>
 </p>
 
 
